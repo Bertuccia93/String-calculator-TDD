@@ -29,6 +29,10 @@ Follow these steps to compile and test the program locally:
     ```
 
     Modify the `script.test.js` file to change inputs and expected results for testing.
+   
+## N.B
+
+I've included the 'node_modules' and dependencies to avoid having to run 'npm install' every time the project is cloned. I want to make sure that after cloning the repository, running 'npm start' immediately provides access to Jest
 
 ## Dependencies
 
