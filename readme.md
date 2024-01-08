@@ -1,4 +1,4 @@
-# Project Name
+# STRING-CALCULATOR-TDD
 
 This repository contains a program that [brief description].
 
