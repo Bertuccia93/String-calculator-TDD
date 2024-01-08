@@ -34,7 +34,7 @@ Follow these steps to compile and test the program locally:
 
 I've included the 'node_modules' and dependencies to avoid having to run 'npm install' every time the project is cloned. I want to make sure that after cloning the repository, running 'npm start' immediately provides access to Jest.
 
-I know is not a best practise and usaly i dont do this.
+I know this is not a best practice, and usually I don't do this.
 
 ## Dependencies
 
